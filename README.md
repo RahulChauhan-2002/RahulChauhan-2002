@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me anything about React 
 - 📫 How to reach me: rahulchauhan962108@gmail.com
-//- 😄 My website: [thetechbrothers.net](https://thetechbrothers.net)
+- 😄 My website: [rahulchauhan](rahulchauhan)
 - ⚡ Fun fact: I'm coming to teen
 
 ### Connect with me:
@@ -34,4 +34,4 @@
 ![Top Langs](<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChauhan-2002&layout=compact"/>)
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [rahul](https://github.com/RahulChauhan-2002)
