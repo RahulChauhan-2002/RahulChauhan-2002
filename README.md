@@ -5,7 +5,6 @@
 - 💬 Ask me anything about React 
 - 📫 How to reach me: rahulchauhan962108@gmail.com
 - 😄 My website: [rahulchauhan](rahulchauhan)
-- ⚡ Fun fact: I'm coming to teen
 
 ### Connect with me:
 <div id="badges">
