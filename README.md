@@ -39,16 +39,16 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
 </div>
 
