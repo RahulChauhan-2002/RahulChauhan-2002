@@ -38,7 +38,20 @@
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,mongodb,mysql,cpp,github,git,postman&perline=6)](https://skillicons.dev)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
+</div>
+
 
 ---
 
@@ -47,6 +60,14 @@
 <p align="center">
   <img alt="Rahul's GitHub Stats" width="48.2%" src="https://github-readme-stats.vercel.app/api?username=RahulChauhan-2002&show_icons=true&theme=radical"/>
   <img alt="Top Languages" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChauhan-2002&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img 
+    alt="Rahul's GitHub Streak" 
+    width="91.5%" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=RahulChauhan-2002&theme=radical&hide_border=false&ring=DD2727&fire=DD2727&currStreakLabel=DD2727&card_width=1000"
+  />
 </p>
 
 ---
