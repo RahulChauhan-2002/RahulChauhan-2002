@@ -8,7 +8,7 @@
 - 🔭 Currently working on **React.js Projects**
 - 🌱 Learning **Full Stack Web Development**  
 - 💬 Ask me about **React, JavaScript, or C++**
-- 📫 Reach me at: **rahulchauhan962106@gmail.com**
+- 📫 Reach me at: **rahulchauhan962103@gmail.com**
 - 🌐 Portfolio: [rahulchauhan](https://rahulchauhan) <!-- Replace with your actual portfolio link -->
 - 🏏 Hobbies: Love playing **Cricket**, Chess ♟️, and exploring tech content
 
