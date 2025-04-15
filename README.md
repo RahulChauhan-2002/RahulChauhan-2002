@@ -66,7 +66,7 @@
   <img 
     alt="Rahul's GitHub Streak" 
     width="91.5%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=RahulChauhan-2002&theme=radical&hide_border=false&ring=DD2727&fire=DD2727&currStreakLabel=DD2727&card_width=1000"
+    src="https://streak-stats.demolab.com?user=RahulChauhan-2002&theme=radical&hide_border=false&ring=DD2727&fire=DD2727&currStreakLabel=DD2727&card_width=1000" 
   />
 </p>
 
