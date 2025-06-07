@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **React.js Projects**
+- 🔭 Currently working on **Node.js Projects**
 - 🌱 Learning **Full Stack Web Development**  
 - 💬 Ask me about **React, JavaScript, or C++**
 - 📫 Reach me at: **rahulchauhan962103@gmail.com**
