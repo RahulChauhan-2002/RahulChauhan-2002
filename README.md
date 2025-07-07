@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Rahul Chauhan</h1>
-<h3 align="center">A passionate Frontend Developer | Full Stack Learner | C++ Coder</h3>
+<h3 align="center">A passionate Full Stack MERN Developer | Full Stack MERN Developer | C++ Coder</h3>
 
 ---
 
