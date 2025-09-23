@@ -1,92 +1,187 @@
-<h1 align="center">Hey 👋, I'm Rahul Chauhan</h1>
-<h3 align="center">A passionate Full Stack MERN Developer | Full Stack MERN Developer | C++ Coder</h3>
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently working on **Node.js Projects**
-- 🌱 Learning **Full Stack Web Development**  
-- 💬 Ask me about **React, JavaScript, or C++**
-- 📫 Reach me at: **rahulchauhan962103@gmail.com**
-- 🌐 Portfolio: [rahulchauhan](https://rahulchauhan) <!-- Replace with your actual portfolio link -->
-- 🏏 Hobbies: Love playing **Cricket**, Chess ♟️, and exploring tech content
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://github.com/RahulChauhan-2002">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahul2025/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Rahul__Chauhan/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rahulchauhan962108@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/ChauhanRahul47">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter"/>
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
-
----
-
-### 🛠️ Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="55" alt="Postman" />
+
+# Hey 👋, I'm Rahul Chauhan
+
+### 🚀 Full Stack MERN Developer | Software Engineer | C++ Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Problem+Solver+%26+Code+Enthusiast;Always+Learning+New+Technologies;Building+Amazing+Web+Applications)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=RahulChauhan-2002&color=blueviolet&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/RahulChauhan-2002?label=Followers&style=social)](https://github.com/RahulChauhan-2002?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/RahulChauhan-2002?label=Stars&style=social)](https://github.com/RahulChauhan-2002)
+
 </div>
 
+---
+
+## 🚀 About Me
+
+```yaml
+name: Rahul Chauhan
+role: Full Stack MERN Developer
+location: India
+current_focus: Building scalable web applications
+learning: Advanced Node.js, System Design, DevOps
+interests: [Web Development, Problem Solving, Open Source]
+fun_fact: Love playing Cricket 🏏 and Chess ♟️
+```
+
+- 🔭 Currently working on **Node.js Projects** and **MERN Stack Applications**
+- 🌱 Learning **Full Stack Web Development** and **System Design**  
+- 💬 Ask me about **React, JavaScript, Node.js, or C++**
+- 📫 Reach me at: **rahulchauhan962103@gmail.com**
+- 🌐 Portfolio: [Coming Soon...](https://github.com/RahulChauhan-2002) <!-- Will update with actual portfolio -->
+- 🎯 2025 Goal: **Land a Full-time SDE role**
+- ⚡ Fun fact: I debug with console.log() and I'm not ashamed! 😄
 
 ---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulChauhan-2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul2025/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Rahul__Chauhan/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulchauhan962108@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ChauhanRahul47)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
 
 ### 📈 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulChauhan-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChauhan-2002&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<p align="center">
-  <img alt="Rahul's GitHub Stats" width="48.2%" src="https://github-readme-stats.vercel.app/api?username=RahulChauhan-2002&show_icons=true&theme=radical"/>
-  <img alt="Top Languages" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChauhan-2002&layout=compact&theme=radical"/>
-</p>
+### 🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChauhan-2002&theme=tokyonight&hide_border=false"/>
 
-<p align="center">
-<img
-alt="Rahul's GitHub Streak"
-width="91.5%"
-src="https://github-readme-streak-stats.herokuapp.com?user=RahulChauhan-2002&theme=radical&hide_border=false&ring=DD2727&fire=DD2727&currStreakLabel=DD2727&card_width=1000"
-/>
-</p>
+### 📊 GitHub Activity Graph
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulChauhan-2002&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-### 🧠 Currently Learning
+## 🎯 Featured Projects
 
-- Backend with **Node.js** & **MongoDB**
-- Advanced concepts in **React.js**
-- Building full-stack projects with **MERN Stack**
+<div align="center">
 
----
+[![ThreatAtlas](https://github-readme-stats.vercel.app/api/pin/?username=ParityBit-Security&repo=ThreatAtlas&theme=tokyonight)](https://github.com/ParityBit-Security/ThreatAtlas)
+[![RLS-Guard-Dog](https://github-readme-stats.vercel.app/api/pin/?username=RahulChauhan-2002&repo=RLS-Guard-Dog&theme=tokyonight)](https://github.com/RahulChauhan-2002/RLS-Guard-Dog)
+[![URL-SHORTENER](https://github-readme-stats.vercel.app/api/pin/?username=RahulChauhan-2002&repo=URL-SHORTENER&theme=tokyonight)](https://github.com/RahulChauhan-2002/URL-SHORTENER)
+[![Email-service-platform](https://github-readme-stats.vercel.app/api/pin/?username=RahulChauhan-2002&repo=Email-service-platform&theme=tokyonight)](https://github.com/RahulChauhan-2002/Email-service-platform)
 
-### 🎯 Goals for 2025
-
-- ✅ Master MERN stack  
-- ✅ Land a full-time SDE role  
-- ✅ Contribute to open-source  
-- ✅ Travel to the mountains 🏔️
+</div>
 
 ---
 
-⭐️ **From** [RahulChauhan-2002](https://github.com/RahulChauhan-2002)
+## 🧠 Currently Learning
+
+```javascript
+const rahul = {
+    currentlyLearning: [
+        "Advanced Node.js & Express.js",
+        "MongoDB & Database Design",
+        "System Design Fundamentals",
+        "DevOps & Deployment",
+        "Next.js & React Advanced Patterns"
+    ],
+    currentlyReading: "You Don't Know JS",
+    askMeAbout: ["Web Development", "JavaScript", "React", "Node.js", "C++"],
+    technologies: {
+        frontend: ["React", "HTML", "CSS", "JavaScript", "Bootstrap"],
+        backend: ["Node.js", "Express", "MongoDB", "MySQL"],
+        tools: ["Git", "GitHub", "Postman", "VS Code"],
+        architecture: ["MVC", "REST APIs", "Microservices"]
+    }
+};
+```
+
+---
+
+## 🎯 Goals for 2025
+
+- ✅ **Master MERN Stack** - Build 5+ full-stack projects
+- 🎯 **Land a Full-time SDE Role** - Focus on product-based companies  
+- 🌟 **Contribute to Open Source** - Make meaningful contributions
+- 📚 **Learn System Design** - Understand scalable architecture
+- 🏔️ **Travel to the Mountains** - Work-life balance is important!
+- 🚀 **Build SaaS Product** - Create something that solves real problems
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🎮 When I'm Not Coding
+
+- 🏏 Playing Cricket with friends
+- ♟️ Strategic Chess games  
+- 📚 Reading tech blogs and articles
+- 🎵 Listening to podcasts about technology
+- 🌄 Planning my next mountain adventure
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+![Snake animation](https://github.com/RahulChauhan-2002/RahulChauhan-2002/blob/output/github-contribution-grid-snake.svg)
+
+**Thank you for visiting my profile! Let's connect and build something amazing together! 🚀**
+
+⭐️ From [RahulChauhan-2002](https://github.com/RahulChauhan-2002)
+
+</div>
