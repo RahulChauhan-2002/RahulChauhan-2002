@@ -3,18 +3,13 @@
 # Hey 👋, I'm Rahul Chauhan
 
 ### 🚀 Full Stack MERN Developer | Software Engineer | C++ Enthusiast
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Problem+Solver+%26+Code+Enthusiast;Always+Learning+New+Technologies;Building+Amazing+Web+Applications)](https://git.io/typing-svg)
-
-<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RahulChauhan-2002&color=blueviolet&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/RahulChauhan-2002?label=Followers&style=social)](https://github.com/RahulChauhan-2002?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/RahulChauhan-2002?label=Stars&style=social)](https://github.com/RahulChauhan-2002)
 
 </div>
-
-<br><br>
 
 ## 🚀 About Me
 
@@ -40,7 +35,6 @@ fun_fact: Love playing Cricket 🏏 and Chess ♟️
 - 🎯 2025 Goal: **Land a Full-time SDE role**
 - ⚡ Fun fact: I debug with console.log() and I'm not ashamed! 😄
 
-<br><br>
 
 ## 🌐 Connect with Me
 
@@ -56,11 +50,7 @@ fun_fact: Love playing Cricket 🏏 and Chess ♟️
 
 </div>
 
-<br><br>
-
 ## 🛠️ Tech Stack & Tools
-
-<br>
 
 <div align="center">
 
@@ -71,21 +61,15 @@ fun_fact: Love playing Cricket 🏏 and Chess ♟️
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<br>
-
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
-
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -95,8 +79,6 @@ fun_fact: Love playing Cricket 🏏 and Chess ♟️
 
 </div>
 
-<br><br>
-
 ## 📊 GitHub Analytics
 
 <br>
@@ -105,20 +87,15 @@ fun_fact: Love playing Cricket 🏏 and Chess ♟️
 
 ### 📈 GitHub Stats
 
-<br>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulChauhan-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChauhan-2002&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<br><br>
 
 ### 🔥 GitHub Streak
 
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=RahulChauhan-2002&theme=tokyonight"/>
-
-<br><br>
 
 ### 📊 GitHub Activity Graph
 
@@ -127,8 +104,6 @@ fun_fact: Love playing Cricket 🏏 and Chess ♟️
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulChauhan-2002&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<br><br>
 
 ## 🎯 Featured Projects
 
@@ -145,8 +120,6 @@ fun_fact: Love playing Cricket 🏏 and Chess ♟️
 [![Email-service-platform](https://github-readme-stats.vercel.app/api/pin/?username=RahulChauhan-2002&repo=Email-service-platform&theme=tokyonight)](https://github.com/RahulChauhan-2002/Email-service-platform)
 
 </div>
-
-<br><br>
 
 ## 🧠 Currently Learning
 
@@ -171,8 +144,7 @@ const rahul = {
     }
 };
 ```
-
-<br><br>
+<br>
 
 ## 🎯 Goals for 2025
 
@@ -185,7 +157,6 @@ const rahul = {
 - 🏔️ **Travel to the Mountains** - Work-life balance is important!
 - 🚀 **Build SaaS Product** - Create something that solves real problems
 
-<br><br>
 
 ## 🎮 When I'm Not Coding
 
@@ -197,7 +168,6 @@ const rahul = {
 - 🎵 Listening to podcasts about technology
 - 🌄 Planning my next mountain adventure
 
-<br><br>
 
 ## 💭 Random Dev Quote
 
@@ -209,7 +179,6 @@ const rahul = {
 
 </div>
 
-<br><br>
 
 <div align="center">
 
