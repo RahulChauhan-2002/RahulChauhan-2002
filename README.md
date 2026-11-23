@@ -1,199 +1,115 @@
 <div align="center">
 
-# Hey 👋, I'm Rahul Chauhan
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=Rahul%20Chauhan&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Agentic%20AI%20%7C%20RAG%20%7C%20MCP%20%7C%20Backend%20Engineering&descSize=17&descAlignY=60&animation=fadeIn" alt="Rahul Chauhan - Agentic AI, RAG, MCP, Backend Engineering"/>
 
-### 🚀 Full Stack MERN Developer | Software Engineer | C++ Enthusiast
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Problem+Solver+%26+Code+Enthusiast;Always+Learning+New+Technologies;Building+Amazing+Web+Applications)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=RahulChauhan-2002&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/RahulChauhan-2002?label=Followers&style=social)](https://github.com/RahulChauhan-2002?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/RahulChauhan-2002?label=Stars&style=social)](https://github.com/RahulChauhan-2002)
+<!-- Quick Connect Bar -->
+[![Resume](https://img.shields.io/badge/Resume-PDF-2563EB?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/RahulChauhan-2002/RahulChauhan-2002/blob/main/Rahul_Chauhan_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul2025/)
+[![LeetCode](https://img.shields.io/badge/LeetCode_1700+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rahul__Chauhan/)
+[![X](https://img.shields.io/badge/X-@ChauhanRahul47-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ChauhanRahul47)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahulchauhan962103@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=RahulChauhan-2002&color=2563EB&style=flat-square&label=Views)
 
 </div>
 
-## 🚀 About Me
+---
 
-<br>
+### 👋 About Me
 
-```yaml
-name: Rahul Chauhan
-role: Full Stack MERN Developer
-location: India
-current_focus: Building scalable web applications
-learning: Advanced Node.js, System Design, DevOps
-interests: [Web Development, Problem Solving, Open Source]
-fun_fact: Love playing Cricket 🏏 and Chess ♟️
-```
+I'm a **System Engineer at Infosys** in **Pune, India**. I build **agentic AI systems**: multi-agent workflows, RAG pipelines, and LLM tools that check their own work. Before Infosys, I worked on secure product development as a Technical Intern at **ParityBit Security**.
 
-<br>
+- 🤖 **Agentic AI:** Multi-agent orchestration with `LangGraph`, RAG pipelines, and tool use through **Model Context Protocol (MCP)**
+- ⚙️ **Backend:** REST APIs and services with **FastAPI**, **Node.js / Express**, **MongoDB**, and **MySQL**
+- 🧪 **Reliability:** Bounded retries, verify-and-rescan loops, and offline test suites with `pytest`
+- ⚡ **Problem Solving:** **400+ LeetCode problems** solved in C++, with a **1700+ peak contest rating**
 
-- 🔭 Currently working on **Node.js Projects** and **MERN Stack Applications**
-- 🌱 Learning **Full Stack Web Development** and **System Design**  
-- 💬 Ask me about **React, JavaScript, Node.js, or C++**
-- 📫 Reach me at: **rahulchauhan962103@gmail.com**
-- 🌐 Portfolio: [Coming Soon...](https://github.com/RahulChauhan-2002) <!-- Will update with actual portfolio -->
-- 🎯 2025 Goal: **Land a Full-time SDE role**
-- ⚡ Fun fact: I debug with console.log() and I'm not ashamed! 😄
+### 🔭 Right Now
 
+- 🔨 Building a suite of custom **MCP servers** for local tool-calling with LLM agents
+- 💼 Open to **AI / GenAI Engineer** roles and to collaborating on **Agentic AI**, **MCP**, and **backend** projects
 
-## 🌐 Connect with Me
+---
+
+### 🤖 Featured AI Projects
+
+| Project | What It Does | Tech Stack |
+| :--- | :--- | :--- |
+| 🛡️ **SecureFlow AI** 🔜 | Agentic security reviewer that finds Python vulnerabilities with AST static analysis, explains them using CWE-grounded RAG, suggests safer code, and re-scans to verify each fix. Backed by 66 offline tests. | `Python` `LangGraph` `LangChain` `RAG` `OpenAI API` `Streamlit` |
+| 🛒 **Multi-Agent AI Shopping Assistant** 🔜 | Planner-Executor system where specialized agents handle product search, review analysis, price tracking, and recommendations, with MCP tools, memory, and human-in-the-loop. | `Python` `LangGraph` `LangChain` `MCP` `RAG` |
+| 🚧 **MCP Server Suite** *(Building Now)* | Custom Model Context Protocol servers and local tool-calling workflows for LLM agents | `Python` `MCP` `FastAPI` `LangGraph` |
+
+<!-- When a repo goes live: change **SecureFlow AI** 🔜 to **[SecureFlow AI](https://github.com/RahulChauhan-2002/YOUR-REPO-NAME)** and remove the 🔜 -->
+
+### 🔐 Security & Full-Stack Projects
+
+| Project | What It Does | Tech Stack |
+| :--- | :--- | :--- |
+| 🛡️ **[ThreatAtlas](https://github.com/ParityBit-Security/ThreatAtlas)** | Security product I worked on during my internship at ParityBit Security | `Node.js` `React` `Security` |
+| 🔐 **[RLS-Guard-Dog](https://github.com/RahulChauhan-2002/RLS-Guard-Dog)** | Row-Level Security validation and access-control tooling for safer databases | `SQL` `Backend` `Security` |
+| 📧 **[Email-service-platform](https://github.com/RahulChauhan-2002/Email-service-platform)** | Email delivery backend with a modular service architecture | `Node.js` `Express` `MongoDB` `REST API` |
+| 🔗 **[URL-SHORTENER](https://github.com/RahulChauhan-2002/URL-SHORTENER)** | Link shortener with redirection routing and click analytics | `MongoDB` `Express` `React` `Node.js` |
+
+---
+
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **AI & Agents** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-4A154B?style=flat-square&logo=anthropic&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-0F766E?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square) ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Backend & DB** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Core & Tools** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+---
+
+### 💼 Experience
+
+| Role | Organization | Period | Focus |
+| :--- | :--- | :--- | :--- |
+| **System Engineer** | **Infosys** *(Pune)* | Dec 2025 – Present | Building AI agents with Python, FastAPI, LangGraph & Amazon Bedrock |
+| **Technical Intern** | **ParityBit Security** | Aug 2025 – Oct 2025 | Secure product development, RBAC & system migration (`ThreatAtlas`) |
+| **Web Dev Intern** | **Cognifyz Technology** | Jul 2024 – Aug 2024 | Full-stack MERN web development |
+
+### 🎓 Education
+
+**B.Tech, Computer Science & Engineering** · ABES Engineering College · 2021 – 2025 · `7.64 CGPA`
+
+---
+
+### 🏆 Certifications
+
+- **Claude Certified Developer – Foundations** · Anthropic
+- **Claude Certified Architect – Foundations** · Anthropic
+- **Anthropic AI Concepts** · Anthropic
+- **Python Programming Certifications** · Infosys Lex
+- **Postman API Fundamentals Student Expert** · Postman
+- **MERN Stack Web Development** · Udemy
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul__Chauhan?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Rahul__Chauhan/)
+
+</div>
+
+<details>
+<summary><b>📊 GitHub Analytics</b></summary>
 
 <br>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulChauhan-2002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul2025/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Rahul__Chauhan/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulchauhan962108@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ChauhanRahul47)
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RahulChauhan-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChauhan-2002&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-## 🛠️ Tech Stack & Tools
+</details>
+
+---
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+*Thanks for visiting! Feel free to reach out about **Agentic AI**, **MCP**, or **Backend Engineering**.*
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<br>
-
-<div align="center">
-
-### 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulChauhan-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChauhan-2002&layout=compact&langs_count=8&theme=tokyonight"/>
-
-
-### 🔥 GitHub Streak
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=RahulChauhan-2002&theme=tokyonight"/>
-
-### 📊 GitHub Activity Graph
-
-<br>
-
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulChauhan-2002&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 🎯 Featured Projects
-
-<br>
-
-<div align="center">
-
-[![ThreatAtlas](https://github-readme-stats.vercel.app/api/pin/?username=ParityBit-Security&repo=ThreatAtlas&theme=tokyonight)](https://github.com/ParityBit-Security/ThreatAtlas)
-[![RLS-Guard-Dog](https://github-readme-stats.vercel.app/api/pin/?username=RahulChauhan-2002&repo=RLS-Guard-Dog&theme=tokyonight)](https://github.com/RahulChauhan-2002/RLS-Guard-Dog)
-
-<br>
-
-[![URL-SHORTENER](https://github-readme-stats.vercel.app/api/pin/?username=RahulChauhan-2002&repo=URL-SHORTENER&theme=tokyonight)](https://github.com/RahulChauhan-2002/URL-SHORTENER)
-[![Email-service-platform](https://github-readme-stats.vercel.app/api/pin/?username=RahulChauhan-2002&repo=Email-service-platform&theme=tokyonight)](https://github.com/RahulChauhan-2002/Email-service-platform)
-
-</div>
-
-## 🧠 Currently Learning
-
-<br>
-
-```javascript
-const rahul = {
-    currentlyLearning: [
-        "Advanced Node.js & Express.js",
-        "MongoDB & Database Design",
-        "System Design Fundamentals",
-        "DevOps & Deployment",
-        "Next.js & React Advanced Patterns"
-    ],
-    currentlyReading: "You Don't Know JS",
-    askMeAbout: ["Web Development", "JavaScript", "React", "Node.js", "C++"],
-    technologies: {
-        frontend: ["React", "HTML", "CSS", "JavaScript", "Bootstrap"],
-        backend: ["Node.js", "Express", "MongoDB", "MySQL"],
-        tools: ["Git", "GitHub", "Postman", "VS Code"],
-        architecture: ["MVC", "REST APIs", "Microservices"]
-    }
-};
-```
-<br>
-
-## 🎯 Goals for 2025
-
-<br>
-
-- ✅ **Master MERN Stack** - Build 5+ full-stack projects
-- 🎯 **Land a Full-time SDE Role** - Focus on product-based companies  
-- 🌟 **Contribute to Open Source** - Make meaningful contributions
-- 📚 **Learn System Design** - Understand scalable architecture
-- 🏔️ **Travel to the Mountains** - Work-life balance is important!
-- 🚀 **Build SaaS Product** - Create something that solves real problems
-
-
-## 🎮 When I'm Not Coding
-
-<br>
-
-- 🏏 Playing Cricket with friends
-- ♟️ Strategic Chess games  
-- 📚 Reading tech blogs and articles
-- 🎵 Listening to podcasts about technology
-- 🌄 Planning my next mountain adventure
-
-
-## 💭 Random Dev Quote
-
-<br>
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-<br>
-
-![Snake animation](https://raw.githubusercontent.com/RahulChauhan-2002/RahulChauhan-2002/output/github-contribution-grid-snake.svg)
-
-<br>
-
-**Thank you for visiting my profile! Let's connect and build something amazing together! 🚀**
-
-<br>
-
-⭐️ From [RahulChauhan-2002](https://github.com/RahulChauhan-2002)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=100&section=footer" alt="Footer"/>
 
 </div>
